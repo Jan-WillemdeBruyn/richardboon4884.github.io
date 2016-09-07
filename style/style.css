@@ -1,0 +1,24 @@
+.parallax-container {
+	height: 700px;
+}
+main {
+	width: 70%;
+	margin: 0 auto;
+}
+nav {
+	color: #000;
+}
+nav .nav-wrapper {
+	width: 95%;
+	margin: 0 auto;
+}
+img.right {
+	float: right;
+	margin: 0 0 0 15px;
+	width: 45%;
+}
+img.left {
+	float: left;
+	width: 45%;
+	margin: 0 15 0 0px;
+}
